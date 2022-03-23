@@ -1,5 +1,5 @@
 {
-  "name": "preentregafinal2_pb_2",
+  "name": "Segunda entrega de desafio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Diego Ariel Simonelli",
+  "author": "Juan Pablo Lino",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
